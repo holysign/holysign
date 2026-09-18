@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=testing;testing2)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&pause=1000&color=F7F7F7&center=true&width=435&lines=limits+do+not+exist;jaxon+-+cybersecurity" alt="Typing SVG" /></a>
